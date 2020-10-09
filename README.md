@@ -2,7 +2,7 @@
 
 Gregory Kahn, Pieter Abbeel, Sergey Levine
 
-[Website link](https://sites.google.com/view/sidewalk)
+[Website link](https://sites.google.com/view/sidewalk-learning)
 
 <img src="./images/bair_logo.png" width="250">
 
